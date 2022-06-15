@@ -1,4 +1,4 @@
-# DeepLearning
+# DeepLearning-PyTorch
 
 This Jupyter notebook uses deep learning with convolutional neural networks to determine whether someone is wearing a mask or not, based on images of people's faces. This use of deep learning can be beneficial for technologies like mobile devices unlocking with facial recognition. PyTorch was used for this notebook.
 
